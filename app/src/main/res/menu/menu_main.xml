@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sailesesiom.twitteryearone.Main">
+
+    <item
+        android:id="@+id/action_acerca_de"
+        android:orderInCategory="100"
+        android:title="@string/txt_action_acerca_de"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_webgrafia"
+        android:orderInCategory="100"
+        android:title="@string/txt_action_webgrafia"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="101"
+        android:title="@string/txt_action_exit"
+        app:showAsAction="never" />
+</menu>

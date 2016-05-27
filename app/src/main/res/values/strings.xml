@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Twitter Year One</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Menus-->
+    <string name="txt_action_acerca_de">Acerca de</string>
+    <string name="txt_action_webgrafia">Webgrafía</string>
+    <string name="txt_action_exit">Exit</string>
+    <string name="txt_action_regresar">Regresar</string>
+
+    <!--Titles-->
+    <string name="txt_title_acerca_de">Acerca de</string>
+    <string name="txt_title_webgrafia">Webgrafía</string>
+
+    <!--TexView-->
+    <string name="txt_acerca_de">Esta aplicación permite loggearse con Twitter, publicar y buscar tweets por usuario. Tiene permisos de internet, de leer tweets de la cuenta con que inicia sesión y con ayuda de la App de Twitter para Android publicar tweets, si no se encuentra instalada, pedirá inicio al navegador para que proceses la solicitud por medio de él. Construida a partir de la tecnología de fabric.</string>
+    <string name="txt_image_content_description">Twitter Egg Logo</string>
+    <string name="txt_produced_by">Produced by: </string>
+    <string name="txt_powered_by">Powered by: </string>
+    <string name="txt_fabric">Fabric</string>
+    <string name="txt_saile_sesiom">Moisés Ochoa</string>
+    <string name="txt_mail_contact">Contact email: </string>
+    <string name="txt_mail_autor"><u>SaileSesiom@outlook.com</u></string>
+    <string name="txt_email_author">Email of Author: <b>SaileSesiom@outlook.com</b></string>
+    <string name="txt_email_no_tweets">No Tweets</string>
+
+    <!--Button-->
+    <string name="txt_action_close">Close</string>
+    <string name="txt_action_twittear">Twittear</string>
+    <string name="txt_action_search">Search</string>
+    <string name="txt_action_refresh">Refresh</string>
+
+    <string name="txt_textview_1"><u>apps.twitter.com/</u></string>
+    <string name="txt_textview_2"><u>get.fabric.io</u></string>
+    <string name="txt_textview_3"><u>www.maestrosdelweb.com/curso-android-trabajando-apis-facebook-twitter/</u></string>
+    <string name="txt_textview_4"><u>github.com/mttkay/signpost/blob/master/docs/TwitterAndSignpost.md</u></string>
+    <string name="txt_textview_5"><u>www.adictosaltrabajo.com/tutoriales/twitter-client-android/</u></string>
+    <string name="txt_textview_6"><u>docs.fabric.io/android/twitter/index.html</u></string>
+    <string name="txt_textview_7"><u>blog.uchceu.es/informatica/wp-content/uploads/sites/15/2015/01/Tutorial-cliente-Twitter-para-Android.pdf</u></string>
+    <string name="txt_textview_8"><u>www.androidwarriors.com/2015/11/twitter-login-android-studio-example.html</u></string>
+    <string name="txt_textview_9"><u>www.SaileSesiom.com/TwitterYearOne</u></string>
+</resources>
